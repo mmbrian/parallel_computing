@@ -1,0 +1,1 @@
+void testRun(int NUM_THREADS, int ARRAY_SIZE, bool naive);
